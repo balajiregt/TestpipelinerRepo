@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-/// <reference types="cypress-xpath" />
+// <reference types="cypress-xpath" />
 
 // ***********************************************************
 // This example plugins/index.js can be used to load plugins
