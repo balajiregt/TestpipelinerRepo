@@ -12,12 +12,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@testing-library/cypress": "^8.0.1",
-    "@types/cypress-xpath": "1.6.2",
     "cypress": "^9.1.0",
-    "cypress-mochawesome-reporter": "^2.3.0",
-    "cypress-xpath": "1.6.2",
-    "mochawesome": "^6.3.1",
-    "mochawesome-merge": "^4.2.0"
   }
 }
