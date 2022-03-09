@@ -1,6 +1,4 @@
 {
-  
-  "reporter": "cypress-mochawesome-reporter",
   "reporterOptions": {
     "reportDir": "cypress/reports",
     "charts": true,
