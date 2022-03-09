@@ -1,0 +1,10 @@
+[ {
+  "username": "admin",
+  "password": "admin",
+  "body": "Fixtures data 1"
+},
+{
+  "username": "test",
+  "password": "test",
+  "body": "Fixtures data 2"
+}]

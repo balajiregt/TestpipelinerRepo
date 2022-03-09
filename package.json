@@ -1,0 +1,23 @@
+{
+  "name": "Project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "node scripts/cypress.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "@types/cypress-xpath": "1.6.2",
+    "cypress": "^9.1.0",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "cypress-xpath": "1.6.2",
+    "mochawesome": "^6.3.1",
+    "mochawesome-merge": "^4.2.0"
+  }
+}
